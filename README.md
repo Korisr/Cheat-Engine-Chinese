@@ -1,4 +1,4 @@
-# Cheat Engine 7.7 简体中文语言包
+# Cheat Engine 7.7 简体中文汉化语言包
 
 [![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-7.7-blue)](https://cheatengine.org/)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
